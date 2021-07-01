@@ -1,0 +1,16 @@
+.jogo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: 10px auto 0px auto;
+}
+
+.jogo img{
+    width: 100%;
+}
+
+.jogo p{
+    text-align: justify;
+}

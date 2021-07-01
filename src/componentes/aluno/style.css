@@ -1,0 +1,29 @@
+.card{
+color: black;
+background-color: blueviolet;
+text-align: center;
+margin: 50px;
+padding: 5px;
+border-radius: 20px;
+box-shadow: 1px 1px 0px 1px white;
+
+}
+.cabecalho{
+    background-color: blueviolet;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 1px 1px 0px 1px white;
+    
+    }
+
+h1{
+ text-align: center;
+ padding: 10PX;
+}
+
+button{
+    color: black;
+    background-color: blueviolet;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
